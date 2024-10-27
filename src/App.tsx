@@ -1,5 +1,6 @@
 import React from 'react';
 import MainContent from './components/MainContent';
+import Player from './components/Player';
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <div className="flex-1 flex overflow-hidden">
         <MainContent />
       </div>
+      <Player />
     </div>
   );
 }
