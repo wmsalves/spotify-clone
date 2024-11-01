@@ -1,6 +1,6 @@
 import React from 'react';
-import MainContent from './components/MainContent';
 import Player from './components/Player';
+import MainContent from './components/MainContent';
 
 function App() {
   return (

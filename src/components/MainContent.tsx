@@ -1,4 +1,4 @@
-import { Play, Heart } from 'lucide-react';
+import { Play } from 'lucide-react';
 
 const playlists = [
   {
